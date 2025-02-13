@@ -1,0 +1,1 @@
+Small python program to detect the range of a male voice. Start singing from low to high and then press ctrl-c. The program will show what kind of male singer type you are.
